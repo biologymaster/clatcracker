@@ -1,0 +1,6 @@
+{
+  "name": "CLATCracker",
+  "description": "Personal CLAT AI Tracker for mock analysis, mistake pattern recognition, and study priority planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
